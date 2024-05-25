@@ -1,5 +1,5 @@
 welcome
-
+String s="raja"
 
 coming
 raja how are you
